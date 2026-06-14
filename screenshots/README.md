@@ -1,0 +1,3 @@
+# Screenshots
+
+Dashboard screenshots will be stored here.
